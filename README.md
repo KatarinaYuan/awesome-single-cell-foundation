@@ -38,3 +38,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - GET: a foundation model of transcription across human cell types [paper](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1.full), [code](https://github.com/GET-Foundation)
 
+
+
+## Incorporating Text
+
+- BioTranslator: Multilingual translation for zero-shot biomedical classification using BioTranslator [paper](https://www.nature.com/articles/s41467-023-36476-2), [code](https://github.com/HanwenXuTHU/BioTranslatorProject)
