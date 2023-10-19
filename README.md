@@ -43,3 +43,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 ## Incorporating Text
 
 - BioTranslator: Multilingual translation for zero-shot biomedical classification using BioTranslator [paper](https://www.nature.com/articles/s41467-023-36476-2), [code](https://github.com/HanwenXuTHU/BioTranslatorProject)
+
+
+# Benchmarking
+
+- Assessing the limits of zero-shot foundation models in single-cell biology [paper](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1.full.pdf), [code](https://github.com/microsoft/zero-shot-scfoundation)
