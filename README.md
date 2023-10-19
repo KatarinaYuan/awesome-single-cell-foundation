@@ -68,3 +68,4 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 - Assessing the limits of zero-shot foundation models in single-cell biology [paper](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1.full.pdf), [code](https://github.com/microsoft/zero-shot-scfoundation)
 
 
+- scEval: Evaluating the Utilities of Large Language Models in Single-cell Data Analysis [paper](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v3.full.pdf), [code](https://github.com/HelloWorldLTY/scEval)
