@@ -40,11 +40,31 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 
 
-## Incorporating Text
+## Complex Mixsure: (Incorporating Text)
 
 - BioTranslator: Multilingual translation for zero-shot biomedical classification using BioTranslator [paper](https://www.nature.com/articles/s41467-023-36476-2), [code](https://github.com/HanwenXuTHU/BioTranslatorProject)
+
+## Test Only
+
+- BioGPT: generative pre-trained transformer for biomedical text generation and mining [paper](https://arxiv.org/pdf/2210.10341.pdf), [code](https://github.com/microsoft/BioGPT)
+
+- BioBERT: a pre-trained biomedical language representation model for biomedical text mining [paper](https://arxiv.org/pdf/1901.08746.pdf), [code](https://github.com/dmis-lab/biobert)
+
+- PubMedBERT: Domain-specific language model pretraining for biomedical natural language processing [paper](https://arxiv.org/pdf/2007.15779.pdf), [code](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract)
+
+
+## Protein Sequence Only
+
+- ProGEN: Large language models generate functional protein sequences across diverse families [paper](https://www.nature.com/articles/s41587-022-01618-2), [code](https://github.com/salesforce/progen)
+
+- ProtGPT2: ProtGPT2 is a deep unsupervised language model for protein design [paper](https://www.biorxiv.org/content/10.1101/2022.03.09.483666v1), [code](https://huggingface.co/nferruz/ProtGPT2)
+
+- ZymCTRL: a conditional language model for the controllable generation of artificial enzymes [paper](https://www.mlsb.io/papers_2022/ZymCTRL_a_conditional_language_model_for_the_controllable_generation_of_artificial_enzymes.pdf), [code](https://huggingface.co/AI4PD/ZymCTRL)
+
 
 
 # Benchmarking
 
 - Assessing the limits of zero-shot foundation models in single-cell biology [paper](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1.full.pdf), [code](https://github.com/microsoft/zero-shot-scfoundation)
+
+
