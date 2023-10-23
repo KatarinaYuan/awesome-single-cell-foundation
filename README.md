@@ -49,6 +49,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT [paper](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1), [code](https://github.com/yiqunchen/GenePT)
 
+- BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine [paper](https://arxiv.org/abs/2308.09442), [code](https://github.com/PharMolix/OpenBioMed)
+
 ### Test Only
 
 - BioGPT: generative pre-trained transformer for biomedical text generation and mining [paper](https://arxiv.org/pdf/2210.10341.pdf), [code](https://github.com/microsoft/BioGPT)
