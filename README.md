@@ -28,6 +28,9 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - scTranslator: Training on large-scale RNA data to impute protein abundance [paper](https://t.co/DHRtCmzaGK), [code](https://t.co/TC0OCOc0q7)
 
+- SCimilarity: Scalable querying of human cell atlases via a foundational model reveals commonalities across fibrosis-associated macrophages [paper](https://www.biorxiv.org/content/10.1101/2023.07.18.549537v3), [code](https://github.com/Genentech/scimilarity)
+
+
 
 ## Spatially-resolved Transcriptomic (SRT)
 
@@ -44,7 +47,9 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - BioTranslator: Multilingual translation for zero-shot biomedical classification using BioTranslator [paper](https://www.nature.com/articles/s41467-023-36476-2), [code](https://github.com/HanwenXuTHU/BioTranslatorProject)
 
-## Test Only
+- GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT [paper](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1), [code](https://github.com/yiqunchen/GenePT)
+
+### Test Only
 
 - BioGPT: generative pre-trained transformer for biomedical text generation and mining [paper](https://arxiv.org/pdf/2210.10341.pdf), [code](https://github.com/microsoft/BioGPT)
 
@@ -53,7 +58,7 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 - PubMedBERT: Domain-specific language model pretraining for biomedical natural language processing [paper](https://arxiv.org/pdf/2007.15779.pdf), [code](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract)
 
 
-## Protein Sequence Only
+### Protein Sequence Only
 
 - ProGEN: Large language models generate functional protein sequences across diverse families [paper](https://www.nature.com/articles/s41587-022-01618-2), [code](https://github.com/salesforce/progen)
 
