@@ -10,6 +10,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 ## Single cell RNA sequencing (scRNA-seq)
 
+- **SCHYENA**: FOUNDATION MODEL FOR FULL-LENGTH SINGLE-CELL RNA-SEQ ANALYSIS IN BRAIN [paper](https://arxiv.org/pdf/2310.02713.pdf), [code](https://github.com/scHyena2023/scHyena)
+
 - **GeneCompass**: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model [paper](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1), [code](https://github.com/xCompass-AI/GeneCompass)
 
 - **Geneformer**: Transfer learning enables predictions in network biology [paper](https://www.nature.com/articles/s41586-023-06139-9), [code](https://huggingface.co/ctheodoris/Geneformer)
