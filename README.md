@@ -69,6 +69,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 - ZymCTRL: a conditional language model for the controllable generation of artificial enzymes [paper](https://www.mlsb.io/papers_2022/ZymCTRL_a_conditional_language_model_for_the_controllable_generation_of_artificial_enzymes.pdf), [code](https://huggingface.co/AI4PD/ZymCTRL)
 
 
+### RNA sequence onlyu
+- RNA-FM: Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [paper](https://arxiv.org/pdf/2204.00300.pdf), [code](https://github.com/ml4bio/RNA-FM)
 
 # Benchmarking
 
