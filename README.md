@@ -64,6 +64,11 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 ## Protein Sequence Only
 
+- **ESM-2**: Language models of protein sequences at the scale of evolution enable accurate structure prediction [paper](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf), [code](https://github.com/facebookresearch/esm)
+
+- **Prottrans**: Toward understanding the language of life through self-supervised learning [paper](https://arxiv.org/abs/2007.06225), [code](https://github.com/agemagician/ProtTrans)
+
+
 - **ProGEN**: Large language models generate functional protein sequences across diverse families [paper](https://www.nature.com/articles/s41587-022-01618-2), [code](https://github.com/salesforce/progen)
 
 - **ProtGPT2**: ProtGPT2 is a deep unsupervised language model for protein design [paper](https://www.biorxiv.org/content/10.1101/2022.03.09.483666v1), [code](https://huggingface.co/nferruz/ProtGPT2)
