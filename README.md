@@ -43,7 +43,7 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 
 
-## Complex Mixsure: (Incorporating Text)
+## Multi-modality (Incorporating Text)
 
 - BioTranslator: Multilingual translation for zero-shot biomedical classification using BioTranslator [paper](https://www.nature.com/articles/s41467-023-36476-2), [code](https://github.com/HanwenXuTHU/BioTranslatorProject)
 
@@ -51,7 +51,7 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine [paper](https://arxiv.org/abs/2308.09442), [code](https://github.com/PharMolix/OpenBioMed)
 
-### Test Only
+## Biomedical Test Only
 
 - BioGPT: generative pre-trained transformer for biomedical text generation and mining [paper](https://arxiv.org/pdf/2210.10341.pdf), [code](https://github.com/microsoft/BioGPT)
 
@@ -60,7 +60,9 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 - PubMedBERT: Domain-specific language model pretraining for biomedical natural language processing [paper](https://arxiv.org/pdf/2007.15779.pdf), [code](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract)
 
 
-### Protein Sequence Only
+# Single modality other than Single Cell
+
+## Protein Sequence Only
 
 - ProGEN: Large language models generate functional protein sequences across diverse families [paper](https://www.nature.com/articles/s41587-022-01618-2), [code](https://github.com/salesforce/progen)
 
@@ -69,7 +71,7 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 - ZymCTRL: a conditional language model for the controllable generation of artificial enzymes [paper](https://www.mlsb.io/papers_2022/ZymCTRL_a_conditional_language_model_for_the_controllable_generation_of_artificial_enzymes.pdf), [code](https://huggingface.co/AI4PD/ZymCTRL)
 
 
-### RNA sequence onlyu
+## RNA sequence only
 - RNA-FM: Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [paper](https://arxiv.org/pdf/2204.00300.pdf), [code](https://github.com/ml4bio/RNA-FM)
 
 # Benchmarking
