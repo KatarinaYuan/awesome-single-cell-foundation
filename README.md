@@ -55,6 +55,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 ## Biomedical Test Only
 
+- **BioLinkBERT**: Pretraining Language Models with Document Links [paper](https://arxiv.org/pdf/2203.15827.pdf), [code](https://github.com/michiyasunaga/LinkBERT)
+
 - **BioGPT**: generative pre-trained transformer for biomedical text generation and mining [paper](https://arxiv.org/pdf/2210.10341.pdf), [code](https://github.com/microsoft/BioGPT)
 
 - **BioBERT**: a pre-trained biomedical language representation model for biomedical text mining [paper](https://arxiv.org/pdf/1901.08746.pdf), [code](https://github.com/dmis-lab/biobert)
@@ -77,8 +79,22 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - **ZymCTRL**: a conditional language model for the controllable generation of artificial enzymes [paper](https://www.mlsb.io/papers_2022/ZymCTRL_a_conditional_language_model_for_the_controllable_generation_of_artificial_enzymes.pdf), [code](https://huggingface.co/AI4PD/ZymCTRL)
 
+## DNA Sequence Only
 
-## RNA sequence only
+- **Enformer***: Effective gene expression prediction from sequence by integrating long-range interactions [paper](https://www.biorxiv.org/content/10.1101/2021.04.07.438649v1), [code](https://github.com/deepmind/deepmind-research/tree/master/enformer)
+
+- **DNABERT**: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome [paper](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1), [code](https://github.com/jerryji1993/DNABERT)
+
+- **Nucleotide Transformer**: The nucleotide transformer: Building and evaluating robust foundation models for human genomics [paper](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v1), [code](https://github.com/instadeepai/nucleotide-transformer)
+
+- **Hyenadna**: Long-range genomic sequence modeling at single nucleotide resolution [paper](https://arxiv.org/pdf/2306.15794), [code](https://github.com/HazyResearch/hyena-dna)
+
+- **GenSLMs**: Genome-scale language models reveal sars-cov-2 evolutionary dynamics [paper](https://www.biorxiv.org/content/10.1101/2022.10.10.511571v1), [code](https://github.com/ramanathanlab/genslm)
+
+- **gLM**: Genomic language model predicts protein co-regulation and function[paper](https://www.biorxiv.org/content/10.1101/2023.04.07.536042v2), [code](https://github.com/y-hwang/gLM)
+
+
+## RNA Sequence only
 - **RNA-FM**: Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [paper](https://arxiv.org/pdf/2204.00300.pdf), [code](https://github.com/ml4bio/RNA-FM)
 
 # Benchmarking
