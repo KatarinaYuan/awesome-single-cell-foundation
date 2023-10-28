@@ -81,6 +81,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 ## DNA Sequence Only
 
+- **GPN**: DNA language models are powerful predictors of genome-wide variant effects [paper](https://www.pnas.org/doi/10.1073/pnas.2311219120), [code](https://github.com/songlab-cal/gpn)
+
 - **Enformer***: Effective gene expression prediction from sequence by integrating long-range interactions [paper](https://www.biorxiv.org/content/10.1101/2021.04.07.438649v1), [code](https://github.com/deepmind/deepmind-research/tree/master/enformer)
 
 - **DNABERT**: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome [paper](https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1), [code](https://github.com/jerryji1993/DNABERT)
