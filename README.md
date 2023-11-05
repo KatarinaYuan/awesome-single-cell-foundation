@@ -30,8 +30,11 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - **scTranslator**: Training on large-scale RNA data to impute protein abundance [paper](https://t.co/DHRtCmzaGK), [code](https://t.co/TC0OCOc0q7)
 
+### atlas model
+
 - **SCimilarity**: Scalable querying of human cell atlases via a foundational model reveals commonalities across fibrosis-associated macrophages [paper](https://www.biorxiv.org/content/10.1101/2023.07.18.549537v3), [code](https://github.com/Genentech/scimilarity)
 
+- **scTab**: Scaling cross-tissue single-cell annotation models [paper](https://www.biorxiv.org/content/10.1101/2023.10.07.561331v1.full.pdf), [code](https://github.com/theislab/scTab)
 
 
 ## Spatially-resolved Transcriptomic (SRT)
@@ -79,6 +82,8 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - **ZymCTRL**: a conditional language model for the controllable generation of artificial enzymes [paper](https://www.mlsb.io/papers_2022/ZymCTRL_a_conditional_language_model_for_the_controllable_generation_of_artificial_enzymes.pdf), [code](https://huggingface.co/AI4PD/ZymCTRL)
 
+- **RITA**: a Study on Scaling Up Generative Protein Sequence Models [paper](https://arxiv.org/pdf/2205.05789.pdf), [code](https://github.com/lightonai/RITA)
+
 ## DNA Sequence Only
 
 - **GPN**: DNA language models are powerful predictors of genome-wide variant effects [paper](https://www.pnas.org/doi/10.1073/pnas.2311219120), [code](https://github.com/songlab-cal/gpn)
@@ -105,3 +110,10 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 
 - **scEval**: Evaluating the Utilities of Large Language Models in Single-cell Data Analysis [paper](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v3.full.pdf), [code](https://github.com/HelloWorldLTY/scEval)
+
+- A Deep Dive into Single-Cell RNA Sequencing Foundation Models
+[paper](https://www.biorxiv.org/content/10.1101/2023.10.19.563100v1.full.pdf), [code](https://github.com/clinicalml/sc-foundation-eval)
+
+- Evaluating the Utilities of Large Language Models in Single-cell Data Analysis [paper](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v1.full), [code](https://github.com/HelloWorldLTY/scEval)
+
+
