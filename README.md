@@ -56,6 +56,24 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - **BioMedGPT**: Open Multimodal Generative Pre-trained Transformer for BioMedicine [paper](https://arxiv.org/abs/2308.09442), [code](https://github.com/PharMolix/OpenBioMed)
 
+
+## 4D Nucleome (Hi-C, Micro-C, ChIA-PET)
+
+## Enhancer activity (STARR-seq)
+
+## Transcriptome (CAGE-seq)
+
+## Epigenome (ChIP-seq)
+
+
+## 4D Nucleome (Hi-C, Micro-C, ChIA-PET) + Enhancer activity (STARR-seq) + Transcriptome (CAGE-seq, RNA-seq) + Epigenome (ChIP-seq)
+
+- **EPCOT**: A generalizable framework to comprehensively predict epigenome, chromatin organization, and transcriptome [paper](https://academic.oup.com/nar/article/51/12/5931/7177889), [code](https://github.com/liu-bioinfo-lab/EPCOT)
+
+
+
+# Single modality other than Single Cell
+
 ## Biomedical Test Only
 
 - **BioLinkBERT**: Pretraining Language Models with Document Links [paper](https://arxiv.org/pdf/2203.15827.pdf), [code](https://github.com/michiyasunaga/LinkBERT)
@@ -65,9 +83,6 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 - **BioBERT**: a pre-trained biomedical language representation model for biomedical text mining [paper](https://arxiv.org/pdf/1901.08746.pdf), [code](https://github.com/dmis-lab/biobert)
 
 - **PubMedBERT**: Domain-specific language model pretraining for biomedical natural language processing [paper](https://arxiv.org/pdf/2007.15779.pdf), [code](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract)
-
-
-# Single modality other than Single Cell
 
 ## Protein Sequence Only
 
