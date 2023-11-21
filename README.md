@@ -56,6 +56,10 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 - **BioMedGPT**: Open Multimodal Generative Pre-trained Transformer for BioMedicine [paper](https://arxiv.org/abs/2308.09442), [code](https://github.com/PharMolix/OpenBioMed)
 
+## Modeled as text
+
+- **Cell2Sentence**: Teaching Large Language Models the Language of Biology [paper](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1), [code](https://github.com/vandijklab/cell2sentence-ft)
+
 
 ## 4D Nucleome (Hi-C, Micro-C, ChIA-PET)
 
@@ -118,6 +122,10 @@ The evolution of single-cell biology is intersecting with the advancements of ar
 
 ## RNA Sequence only
 - **RNA-FM**: Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [paper](https://arxiv.org/pdf/2204.00300.pdf), [code](https://github.com/ml4bio/RNA-FM)
+
+# Small Molecule Only
+
+- **Graphium**: Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets [paper](https://arxiv.org/pdf/2310.04292.pdf), [code](https://github.com/datamol-io/graphium)
 
 # Benchmarking
 
